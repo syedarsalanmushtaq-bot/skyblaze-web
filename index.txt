@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[6162,[],""]
+3:I[3256,["39","static/chunks/app/error-f6514a1eecb1a0ca.js"],"default"]
+4:I[1808,[],""]
+5:I[7527,["527","static/chunks/527-2c2f7969bb119d57.js","345","static/chunks/app/not-found-76c63d794037f2eb.js"],""]
+6:I[1556,["177","static/chunks/app/layout-338e208542c4ab47.js"],"RegisterSW"]
+7:I[8793,["527","static/chunks/527-2c2f7969bb119d57.js","974","static/chunks/app/page-6c6c67a7b11bed8a.js"],"default"]
+8:I[8123,[],"OutletBoundary"]
+a:I[2410,[],"AsyncMetadataOutlet"]
+c:I[8123,[],"ViewportBoundary"]
+e:I[8123,[],"MetadataBoundary"]
+f:"$Sreact.suspense"
+11:I[2970,[],""]
+:HL["/_next/static/css/c5aa8f680b46d792.css","style"]
+0:{"P":null,"b":"Ur9PRBVCMbMbQtLA_OuDO","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c5aa8f680b46d792.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en-GB","children":[["$","head",null,{"children":["$","style",null,{"dangerouslySetInnerHTML":{"__html":"@font-face{font-family:'Chakra Petch';font-style:normal;font-weight:600;font-display:swap;src:url(/fonts/ChakraPetch-600.woff2) format('woff2');}\n@font-face{font-family:'Chakra Petch';font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/ChakraPetch-700.woff2) format('woff2');}\n@font-face{font-family:'IBM Plex Sans';font-style:normal;font-weight:400 600;font-display:swap;src:url(/fonts/IBMPlexSans-400.woff2) format('woff2');}"}}]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$3","errorStyles":[],"errorScripts":[],"template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"pagewrap","children":["$","div",null,{"className":"card","children":[["$","div",null,{"className":"stack","style":{"gap":8},"children":[["$","div",null,{"className":"eyebrow","children":"Sky Blaze"}],["$","h2",null,{"children":"NOTHING HERE"}]]}],["$","div",null,{"className":"stack","children":["$","$L5",null,{"className":"btn","href":"/","children":"Back to game"}]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L6",null,{}]]}]]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L7",null,{}],null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover, user-scalable=no"}],["$","meta","2",{"name":"theme-color","content":"#05080f"}]]
+9:null
+12:I[9794,[],"IconMark"]
+b:{"metadata":[["$","title","0",{"children":"Sky Blaze"}],["$","meta","1",{"name":"description","content":"Vertical shooter. Fly an F-16, upgrade your blaze, beat the boss."}],["$","meta","2",{"name":"application-name","content":"Sky Blaze"}],["$","link","3",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"noindex, nofollow"}],["$","meta","5",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","6",{"name":"apple-mobile-web-app-title","content":"Sky Blaze"}],["$","meta","7",{"name":"apple-mobile-web-app-status-bar-style","content":"black"}],["$","link","8",{"rel":"icon","href":"/icons/icon-192.png"}],["$","link","9",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png"}],["$","$L12","10",{}]],"error":null,"digest":"$undefined"}
+10:"$b:metadata"
